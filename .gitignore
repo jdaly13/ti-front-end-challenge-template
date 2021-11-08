@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+/public/backup.js
+
 # testing
 /coverage
 
